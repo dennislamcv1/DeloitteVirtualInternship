@@ -1,0 +1,38 @@
+Factory,Job Role,Equality Score,Equality class
+Daikibo Factory Meiyo,C-Level,-25,Highly Discriminative
+Daikibo Factory Meiyo,VP,-26,Highly Discriminative
+Daikibo Factory Meiyo,Director,-19,Unfair
+Daikibo Factory Meiyo,Sr. Manager,-15,Unfair
+Daikibo Factory Meiyo,Manager,-14,Unfair
+Daikibo Factory Meiyo,Jr. Manager,-20,Unfair
+Daikibo Factory Meiyo,Sr. Engineer,-5,Fair
+Daikibo Factory Meiyo,Engineer,-8,Fair
+Daikibo Factory Meiyo,Jr. Engineer,3,Fair
+Daikibo Factory Meiyo,Operational Support,-22,Highly Discriminative
+Daikibo Factory Meiyo,Machine Operator,-7,Fair
+Daikibo Factory Seiko,VP,-19,Unfair
+Daikibo Factory Seiko,Director,-10,Fair
+Daikibo Factory Seiko,Sr. Manager,-21,Highly Discriminative
+Daikibo Factory Seiko,Manager,-21,Highly Discriminative
+Daikibo Factory Seiko,Jr. Manager,-24,Highly Discriminative
+Daikibo Factory Seiko,Sr. Engineer,-4,Fair
+Daikibo Factory Seiko,Engineer,-7,Fair
+Daikibo Factory Seiko,Jr. Engineer,4,Fair
+Daikibo Factory Seiko,Operational Support,-19,Unfair
+Daikibo Factory Seiko,Machine Operator,-5,Fair
+Daikibo Berlin,Sr. Manager,-15,Unfair
+Daikibo Berlin,Manager,-16,Unfair
+Daikibo Berlin,Jr. Manager,-17,Unfair
+Daikibo Berlin,Sr. Engineer,4,Fair
+Daikibo Berlin,Engineer,2,Fair
+Daikibo Berlin,Jr. Engineer,4,Fair
+Daikibo Berlin,Operational Support,0,Fair
+Daikibo Berlin,Machine Operator,-6,Fair
+Daikibo Shenzhen,Sr. Manager,-21,Highly Discriminative
+Daikibo Shenzhen,Manager,-19,Unfair
+Daikibo Shenzhen,Jr. Manager,-20,Unfair
+Daikibo Shenzhen,Sr. Engineer,-5,Fair
+Daikibo Shenzhen,Engineer,-4,Fair
+Daikibo Shenzhen,Jr. Engineer,3,Fair
+Daikibo Shenzhen,Operational Support,-7,Fair
+Daikibo Shenzhen,Machine Operator,-7,Fair
